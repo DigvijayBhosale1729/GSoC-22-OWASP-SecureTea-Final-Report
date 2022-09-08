@@ -5,7 +5,7 @@
 ### Contributor Details
 
 - **Name:** Digvijay Bhosale
-- **GitHub ID:** [@DigvijayBhosale1729]((https://github.com/DigvijayBhosale1729))
+- **GitHub ID:** [@DigvijayBhosale1729](https://github.com/DigvijayBhosale1729)
 - **E-mail ID:** digvijayb1729@gmail.com
 - **Organisation:** [OWASP Foundation](https://owasp.org/)
 - **Project:** [SecureTea Project](https://www.github.com/OWASP/SecureTea-Project)
