@@ -24,7 +24,7 @@ OWSAP SecureTea requires a few updates to its features. These are
 - Complete Web GUI and Remote Monitoring 
 - Shift Backend REST API from Flask to Django 
 - Improve Web App FireWall GUI 
-- Fixes bugs in Angular Frontend 
+- Fixed bugs in Angular Frontend 
 - Fix all issues and ensure Zero Bugs 
 
 For Improvements pertaining to GUI 
@@ -69,6 +69,14 @@ For Improvements pertaining to GUI
 
 https://user-images.githubusercontent.com/70275323/189229006-4ba64729-e341-4e23-a6e5-8e86d10f9db6.mp4
 
+#### Fixed existing bugs
+
+- Existing bugs in securetea have been fixed
+- GaussianNB instances upgraded from depreciated method to new method
+- Fixed errors related to debug option
+- Fixed filesystem bugs
+- CSV file name error fixed
+
 ### Pull Requests and Commits 
 
 | PR | Description | Lines Coded
@@ -78,11 +86,12 @@ https://user-images.githubusercontent.com/70275323/189229006-4ba64729-e341-4e23-
 | [#369](https://github.com/OWASP/SecureTea-Project/pull/369) | Fixed errors in Notifiers - Twitter, Telegram, Discord, Twilio | `+74 −55` |
 | [#370](https://github.com/OWASP/SecureTea-Project/pull/370) | Created React Frontend | `23,181 −1,957` |
 | [#372](https://github.com/OWASP/SecureTea-Project/pull/372) | Finalized React Frontend with all API calls and login | `+13,838 −29,266` |
+| [#375](https://github.com/OWASP/SecureTea-Project/pull/375) | Fixing minor errors in frontend and libs | `+239 −3,630` |
+| [#372](https://github.com/OWASP/SecureTea-Project/pull/372) | Fixed minor issues with the securetea libs | `+25 -24` |
+
 
 [Link to all Commits to SecureTea Project](https://github.com/OWASP/SecureTea-Project/commits?author=DigvijayBhosale1729)
 
 ### Acknowledgement
 
 I would like to thank my mentors [(@adeyosemanputra)](https://github.com/adeyosemanputra) and [(@rejahrehim)](https://github.com/rejahrehim) for constantly guiding and helping me along, resolving my doubts, reviews and constructive criticism and positively cultivating my interest in Security and Open Source. Due to their efforts i was able to complete all objectives for this project. I would like to thank the OWASP Foundation for letting me contribute to this project and providing a wide base of other contributors and mentors to learn from. I would also like to thank the members of the SecureTea Telegram and OWASP Whatsapp group for helping me with this project
-
-
