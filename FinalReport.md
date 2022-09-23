@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/70275323/189229006-4ba64729-e341-4e23-
 | [#370](https://github.com/OWASP/SecureTea-Project/pull/370) | Created React Frontend | `23,181 −1,957` |
 | [#372](https://github.com/OWASP/SecureTea-Project/pull/372) | Finalized React Frontend with all API calls and login | `+13,838 −29,266` |
 | [#375](https://github.com/OWASP/SecureTea-Project/pull/375) | Fixing minor errors in frontend and libs | `+239 −3,630` |
-| [#372](https://github.com/OWASP/SecureTea-Project/pull/372) | Fixed minor issues with the securetea libs | `+25 -24` |
+| [#376](https://github.com/OWASP/SecureTea-Project/pull/372) | Fixed minor issues with the securetea libs | `+25 -24` |
 
 
 [Link to all Commits to SecureTea Project](https://github.com/OWASP/SecureTea-Project/commits?author=DigvijayBhosale1729)
