@@ -42,7 +42,6 @@ For Improvements pertaining to GUI
 - Updated Twilio SMS and Whatsapp
 - Removed Twitter Notifier because twitter no longer supports APIs
 
-![index](https://user-images.githubusercontent.com/70275323/192230235-8087dd9a-27eb-432c-b88e-95cf8b777c43.jpg)
 ![telegram](https://user-images.githubusercontent.com/70275323/192230244-0516d709-0ed7-41f8-bf37-ffd8e574ea3e.jpg)
 
 
