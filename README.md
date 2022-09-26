@@ -117,6 +117,8 @@ For Improvements pertaining to GUI
 | [#375](https://github.com/OWASP/SecureTea-Project/pull/375) | Fixing minor errors in frontend and libs | `+239 −3,630` |
 | [#376](https://github.com/OWASP/SecureTea-Project/pull/372) | Fixed minor issues with the securetea libs | `+25 -24` |
 
+Total Lines of Code committed  +45,188 -41,793
+
 https://github.com/OWASP/SecureTea-Project/commits?author=DigvijayBhosale1729
 
 ### Acknowledgement
