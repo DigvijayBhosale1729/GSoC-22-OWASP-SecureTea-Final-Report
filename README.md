@@ -1,5 +1,3 @@
-# Internship Report
-
 ## Google Summer of Code '22 @ OWASP
 
 ### Contributor Details
